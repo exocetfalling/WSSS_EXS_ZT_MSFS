@@ -1,0 +1,41 @@
+﻿2022-03-30 16:57:09 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | **F20 ADE STARTED**
+2022-03-30 16:57:10 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Target Version: F20
+2022-03-30 16:57:10 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Check Multiple Instance: OK
+2022-03-30 16:57:10 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Program Args
+2022-03-30 16:57:11 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Version From: Steam
+2022-03-30 16:57:11 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2022-03-30 16:57:11 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2022-03-30 16:57:11 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2022-03-30 16:57:11 | Info | ScruffyDuck.AirportDesignEditor.MainForm.LogVersions | 1 | ADE v20.19.7780  Tuesday, 20 April 2021
+2022-03-30 16:57:14 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | ProKey Active
+2022-03-30 16:57:15 | Info | ScruffyDuck.AirportDesignEditor.MainForm.TryToConnect | 1 | Connected to FS
+2022-03-30 16:57:19 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | **F20 ADE STARTED**
+2022-03-30 16:57:20 | Info | ScruffyDuck.AirportDesignEditor.Program.CheckForSingleInstance | 1 | Check Multiple Instance: ADE Already Running
+2022-03-30 16:57:24 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Projects Root Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20
+2022-03-30 16:57:24 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2022-03-30 16:57:24 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2022-03-30 16:57:24 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2022-03-30 16:59:37 | Info | ScruffyDuck.AirportDesignEditor.MainForm.OnOpenF20ProjectMenuItem_Click | 1 | ** OPEN PROJECT **
+2022-03-30 16:59:38 | Info | ScruffyDuck.AirportDesignEditor.MainForm.DisconnectFromFs | 1 | Disconnected from FS
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.MainForm.TryToConnect | 1 | Connected to FS
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20Project.LogProperties | 1 | Project Name:WSSS_2021_RC8
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Airport Ident: WSSS
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Airport Name: Changi
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Project Name: WSSS_2021_RC8
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Creator: Zenith Creations
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Source Path: 
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Bgl Group Active: True
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Art Proj Group Active: False
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Materials Lib Group Active: False
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectReferenceData.LogProperties | 1 | Content Info Group Active: False
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectFolders.LogProperties | 1 | Root Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectFolders.LogProperties | 1 | Packages Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\Packages
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectFolders.LogProperties | 1 | Output Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\.
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectFolders.LogProperties | 1 | Temp Output Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\_PackageInt
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectFolders.LogProperties | 1 | Package Definitions Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\PackageDefinitions
+2022-03-30 17:00:16 | Info | ScruffyDuck.AirportDesignEditor.Helpers.FS20ProjectFolders.LogProperties | 1 | Package Sources Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\PackageSources
+2022-03-30 17:14:37 | Info | ScruffyDuck.AirportDesignEditor.MainForm.SaveFS20ProjectData | 1 | **F20 PROJECT SAVE: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\WSSS_2021_RC8.apf**
+2022-03-30 17:16:23 | Info | ScruffyDuck.AirportDesignEditor.MainForm.SaveFS20ProjectData | 1 | **F20 PROJECT SAVE: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\WSSS_2021_RC8.apf**
+2022-03-30 18:26:51 | Info | ScruffyDuck.AirportDesignEditor.MainForm.SaveFS20ProjectData | 1 | **F20 PROJECT SAVE: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\WSSS_2021_RC8.apf**
+2022-03-30 19:08:43 | Info | ScruffyDuck.AirportDesignEditor.MainForm.SaveFS20ProjectData | 1 | **F20 PROJECT SAVE: D:\FS Design Tools\ADE 2020 Alpha 19\F20\WSSS_2021_RC8\WSSS_2021_RC8.apf**
+2022-03-30 19:19:17 | Info | ScruffyDuck.AirportDesignEditor.MainForm.OnMainFormFormClosing | 1 | **F20 ADE CLOSING**

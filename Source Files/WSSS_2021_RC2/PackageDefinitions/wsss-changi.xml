@@ -1,0 +1,25 @@
+<AssetPackage
+    Name="wsss-changi"
+    Version="0.1">
+    <ItemSettings>
+        <ContentType>SCENERY</ContentType>
+            <Title></Title>
+                <Manufacturer></Manufacturer>
+                    <Creator>EXS</Creator>
+                    </ItemSettings>
+                    <Flags>
+                        <VisibleInStore>false</VisibleInStore>
+                            <CanBeReferenced>false</CanBeReferenced>
+                            </Flags>
+                            <AssetGroups>
+                                <AssetGroup
+                                    Name="wsss-airport">
+                                    <Type>BGL</Type>
+                                        <Flags>
+                                            <FSXCompatibility>false</FSXCompatibility>
+                                            </Flags>
+                                            <AssetDir>PackageSources\data\</AssetDir>
+                                                <OutputDir>scenery\world\scenery</OutputDir>
+                                                </AssetGroup>
+                                            </AssetGroups>
+                                        </AssetPackage>

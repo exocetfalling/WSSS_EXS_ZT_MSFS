@@ -1,0 +1,25 @@
+<AssetPackage
+    Name="wsac-changi-rsaf"
+    Version="0.1">
+    <ItemSettings>
+        <ContentType>SCENERY</ContentType>
+            <Title></Title>
+                <Manufacturer></Manufacturer>
+                    <Creator>EXS</Creator>
+                    </ItemSettings>
+                    <Flags>
+                        <VisibleInStore>false</VisibleInStore>
+                            <CanBeReferenced>false</CanBeReferenced>
+                            </Flags>
+                            <AssetGroups>
+                                <AssetGroup
+                                    Name="wsac-airport">
+                                    <Type>BGL</Type>
+                                        <Flags>
+                                            <FSXCompatibility>false</FSXCompatibility>
+                                            </Flags>
+                                            <AssetDir>PackageSources\data\</AssetDir>
+                                                <OutputDir>scenery\world\scenery</OutputDir>
+                                                </AssetGroup>
+                                            </AssetGroups>
+                                        </AssetPackage>

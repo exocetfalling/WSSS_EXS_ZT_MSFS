@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Created by Airport Design Editor (ADE) on 14/7/21 -->
+<FSData
+    version="9.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+    <DeleteNavigation
+        deleteAllWaypoints="FALSE"
+        deleteAllVORs="FALSE"
+        deleteAllNDBs="FALSE"
+        deleteAllTerminalWaypoints="FALSE"
+        deleteAllTerminalNDBs="FALSE"
+        deleteAllILSs="FALSE"
+        deleteAllApproaches="FALSE"
+        deleteAllDepartures="FALSE"
+        deleteAllArrivals="FALSE"
+        deleteAllFrequencies="FALSE"
+        />
+    <Airport
+        state="NO STATE"
+        city="Changi Rsaf"
+        name="Changi Rsaf"
+        lat="1.33903082460165"
+        lon="104.006878137589"
+        alt="14.177F"
+        magvar="-0.100000000000023"
+        trafficScalar="0.7"
+        airportTestRadius="5000.0M"
+        altType="GEOID"
+        isOnTIN="FALSE"
+        onlyAddIfReplace="FALSE"
+        applyFlatten="TRUE"
+        starAirport="FALSE"
+        closed="FALSE"
+        groundMergingTransfertBright="0"
+        groundMergingTransfertDark="0"
+        ident="WSAC"
+        >
+        <Services>
+        </Services>
+        <DeleteAirport
+            deleteAllApproaches="FALSE"
+            deleteAllRunways="TRUE"
+            deleteAllStarts="TRUE"
+            deleteAllHelipads="TRUE"
+            deleteAllFrequencies="FALSE"
+            deleteAllTaxiways="TRUE"
+            deleteAllAprons="TRUE"
+            deleteAllApronLights="TRUE"
+            deleteAllControlTowers="TRUE"
+            deleteAllJetways="TRUE"
+            deleteAllBoundaryFences="FALSE"
+            deleteAllBlastFences="FALSE"
+            deleteAllArrivals="FALSE"
+            deleteAllDepartures="FALSE"
+            deleteAllILSs="FALSE"
+            deleteAllLightSupports="TRUE"
+            deleteAllTerminalNDBs="FALSE"
+            deleteAllPaintedElements="TRUE"
+            deleteAllTaxiwaySigns="TRUE"
+            deleteAllTerminalWaypoints="FALSE"
+            />
+        <TaxiName
+            index="0"
+            name=""/>
+        <ApronEdgeLights>
+        </ApronEdgeLights>
+    </Airport>
+</FSData>
+
