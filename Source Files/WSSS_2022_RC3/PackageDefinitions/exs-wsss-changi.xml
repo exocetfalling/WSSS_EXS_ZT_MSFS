@@ -1,0 +1,25 @@
+<AssetPackage
+    Name="exs-wsss-changi"
+    Version="0.1">
+    <ItemSettings>
+        <ContentType>SCENERY</ContentType>
+            <Title>WSSS_2022_RC3</Title>
+                <Manufacturer></Manufacturer>
+                    <Creator>EXS_ZT</Creator>
+                    </ItemSettings>
+                    <Flags>
+                        <VisibleInStore>false</VisibleInStore>
+                            <CanBeReferenced>true</CanBeReferenced>
+                            </Flags>
+                            <AssetGroups>
+                                <AssetGroup
+                                    Name="wsss-airport">
+                                    <Type>BGL</Type>
+                                        <Flags>
+                                            <FSXCompatibility>false</FSXCompatibility>
+                                            </Flags>
+                                            <AssetDir>PackageSources\data\</AssetDir>
+                                                <OutputDir>scenery\world\scenery</OutputDir>
+                                                </AssetGroup>
+                                            </AssetGroups>
+                                        </AssetPackage>
