@@ -1,0 +1,10 @@
+{
+  "package-name": "wsss-changi",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "WSSS",
+      "revision": 1
+    }
+  ]
+}

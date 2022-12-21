@@ -1,9 +1,14 @@
 {
   "content": [
     {
+      "path": "ContentInfo/wsss-changi/ContentHistory.json",
+      "size": 135,
+      "date": 133160968724980282
+    },
+    {
       "path": "scenery/world/scenery/wsss-airport.bgl",
-      "size": 682135,
-      "date": 133080507734192172
+      "size": 682359,
+      "date": 133160968724741803
     }
   ]
 }

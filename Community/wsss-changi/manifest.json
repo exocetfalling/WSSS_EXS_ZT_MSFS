@@ -1,11 +1,11 @@
 {
   "dependencies": [],
   "content_type": "SCENERY",
-  "title": "",
+  "title": "wsss-changi",
   "manufacturer": "",
-  "creator": "Zenith Creations",
-  "package_version": "0.1.24",
-  "minimum_game_version": "1.21.13",
+  "creator": "EXS_ZT",
+  "package_version": "0.9.0",
+  "minimum_game_version": "1.29.30",
   "release_notes": {
     "neutral": {
       "LastUpdate": "",
