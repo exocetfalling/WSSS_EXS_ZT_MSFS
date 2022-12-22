@@ -2,6 +2,10 @@ Singapore Changi Airport (WSSS) for FS2020, Version 0.9 (2022-12-22).
 
 By Zenith Creations (Zachary Tay). 
 
+***
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+***
+
 This add-on is the culmination of two years' worth of work on various aspects of the airport. 
 It updates Changi Airport (WSSS) taxiways and gates to be Phase 4 compliant. 
 That means that they are accurate as of 2022-12-21. 
@@ -13,7 +17,7 @@ The issues remaining are largely cosmetic, like Jewel missing and PAPI lights mi
 Report further issues and/or contribute via our Github, at: 
 https://github.com/exocetfalling/WSSS_EXS_ZT_MSFS
 
-We also recommend installing, for night lighting at the aprons:
+We also recommend installing this file for night lighting at the aprons:
 https://flightsim.to/file/8614/airports-lights
 
 CHANGELOG V0.9:
