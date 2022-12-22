@@ -1,4 +1,4 @@
-Singapore Changi Airport (WSSS) for FS2020, Version 0.9 (2022-12-21). 
+Singapore Changi Airport (WSSS) for FS2020, Version 0.9 (2022-12-22). 
 
 By Zenith Creations (Zachary Tay). 
 
@@ -13,9 +13,13 @@ The issues remaining are largely cosmetic, like Jewel missing and PAPI lights mi
 Report further issues and/or contribute via our Github, at: 
 https://github.com/exocetfalling/WSSS_EXS_ZT_MSFS
 
+We also recommend installing, for night lighting at the aprons:
+https://flightsim.to/file/8614/airports-lights
+
 CHANGELOG V0.9:
 - Gate and stand numbers (3XX, 4XX, 5XX) updated with reference to the AIP from CAAS
 - Taxiway signs updated
+- More tee marks added for main gates (for smaller jets)
 
 Install by moving the contents of the Community folder into your FS2020 Community folder.
 
